@@ -44,5 +44,5 @@ for index, row in original_df.iterrows():
     fellow_map.append(item)
 
 # write to json file
-with open('test.json', 'w', encoding='utf-8') as f:
+with open('profiles.json', 'w', encoding='utf-8') as f:
     json.dump(fellow_map, f, ensure_ascii=False, indent=4)
