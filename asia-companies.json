@@ -1,42 +1,34 @@
 {
-    "Avantage Ventures": {
-        "lat": "2.55",
-        "lon": "2.66"
+    "Cathay Pacific Catering Services": {
+        "lat": "22.3073",
+        "lon": "113.91899999999998"
     },
-    "Peking University Law School.": {
-        "lat": "5.11",
-        "lon": "5.33"
+    "HKUST": {
+        "lat": "22.3358031",
+        "lon": "114.265904"
     },
-    "BOC International (china) Limited": {
-        "lat": "2.55",
-        "lon": "2.11"
+    "China Galaxy Securities": {
+        "lat": "25.28194",
+        "lon": "110.28639"
     },
-    "Macquarie Securities Group": {
-        "lat": "1.22",
-        "lon": "3.66"
+    "Advertising": {
+        "lat": "31.2252985",
+        "lon": "121.4890497"
     },
-    "Dezan Shira & Associates / Asia Briefing Ltd.": {
-        "lat": "2.11",
-        "lon": "2.66"
+    "Wison Group": {
+        "lat": "31.1911423",
+        "lon": "121.6238515"
     },
-    "Quest International Trade Ltd.": {
-        "lat": "2.66",
-        "lon": "21.3"
+    "Urbanatomy Media": {
+        "lat": "39.906217",
+        "lon": "116.3912757"
     },
-    "Sino Group Hong Kong & Asia Perspective Shanghai": {
-        "lat": "2.33",
-        "lon": "2.66"
+    "Golden Gate Ventures": {
+        "lat": "1.2788683",
+        "lon": "103.8433622"
     },
-    "Creasians": {
-        "lat": "2.66",
-        "lon": "3.66"
-    },
-    "Kelly Yang Project LTD": {
-        "lat": "2.66",
-        "lon": "2.66"
-    },
-    "Adsale Exhibition Services Ltd": {
-        "lat": "2.11",
-        "lon": "2.55"
+    "Flickfit": {
+        "lat": "35.6429",
+        "lon": "139.6949"
     }
 }

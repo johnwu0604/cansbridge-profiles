@@ -1,6 +1,38 @@
 {
-    "Student": {
-        "lat": "5.22",
-        "lon": "2.66"
+    "Element AI Toronto": {
+        "lat": "43.649014",
+        "lon": "-79.39238"
+    },
+    "LinkedIn San Francisco": {
+        "lat": "37.7864737",
+        "lon": "-122.3982635"
+    },
+    "Mosaic Manufacturing": {
+        "lat": "43.655112",
+        "lon": "-79.389061"
+    },
+    "Google Singapore": {
+        "lat": "1.2775737",
+        "lon": "103.7885018"
+    },
+    "KPMG Toronto": {
+        "lat": "43.649886",
+        "lon": "-79.380798"
+    },
+    "Apple": {
+        "lat": "37.3325951",
+        "lon": "-122.00537"
+    },
+    "Microsoft": {
+        "lat": "47.6427",
+        "lon": "-122.137"
+    },
+    "Microsoft Research Montreal": {
+        "lat": "45.502684",
+        "lon": "-73.573571"
+    },
+    "University of Toronto": {
+        "lat": "43.6635094",
+        "lon": "-79.3977784"
     }
 }
