@@ -34,5 +34,41 @@
     "University of Toronto": {
         "lat": "43.6635094",
         "lon": "-79.3977784"
+    },
+    "IE Business School": {
+        "lat": "40.437903",
+        "lon": "-3.682586"
+    },
+    "Millar Kreklewetz LLP": {
+        "lat": "43.647638",
+        "lon": "-79.392971"
+    },
+    "Ocado Engineering": {
+        "lat": "51.768188",
+        "lon": "-0.236042"
+    },
+    "Alpha Labs": {
+        "lat": "51.0493286",
+        "lon": "13.7381437"
+    },
+    "RWTH Aachen University": {
+        "lat": "50.7777954",
+        "lon": "6.0777943"
+    },
+    "Marsh Canada Limited": {
+        "lat": "49.285718",
+        "lon": "-123.118287"
+    },
+    "Guestbnb": {
+        "lat": "43.643978",
+        "lon": "-79.389816"
+    },
+    "John St.": {
+        "lat": "43.650617",
+        "lon": "-79.391521"
+    },
+    "Nudge.ai": {
+        "lat": "43.64339",
+        "lon": "-79.390935"
     }
 }
