@@ -37,6 +37,7 @@ for index, row in original_df.iterrows():
     item['graduation_year'] = row['graduation_year']
     item['current_location'] = row['current_location'] 
     item['current_company'] = row['current_company']
+    item['current_position'] = row['current_position']
     item['internship_year'] = row['internship_year']
     item['asia_internship_company'] = row['asia_internship_company']
     item['asia_internship_city'] = row['asia_internship_city']
