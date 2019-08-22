@@ -70,5 +70,17 @@
     "Nudge.ai": {
         "lat": "43.64339",
         "lon": "-79.390935"
+    },
+    "Onova": {
+        "lat": "-23.5506507",
+        "lon": "-46.6333824"
+    },
+    "Mennonite Central Committee Alberta": {
+        "lat": "51.0808899",
+        "lon": "-113.9886664"
+    },
+    "Advanced Analytics and Research Lab": {
+        "lat": "43.6446789",
+        "lon": "-79.3949564"
     }
 }

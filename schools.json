@@ -14,5 +14,13 @@
     "University of Saskatchewan": {
         "lat": "52.1305",
         "lon": "-106.633332"
+    },
+    "University of Calgary": {
+        "lat": "51.0783651",
+        "lon": "-114.1283072"
+    },
+    "Western University": {
+        "lat": "43.0053586",
+        "lon": "-81.2748046"
     }
 }
