@@ -82,5 +82,141 @@
     "Advanced Analytics and Research Lab": {
         "lat": "43.6446789",
         "lon": "-79.3949564"
+    },
+    "RBC Ventures": {
+        "lat": "43.640121",
+        "lon": "-79.381227"
+    },
+    "GoCardless": {
+        "lat": "51.5243517",
+        "lon": "-0.0997442"
+    },
+    "MarshallZehr": {
+        "lat": "43.484684",
+        "lon": "-80.540406"
+    },
+    "Lavanda": {
+        "lat": "51.520095",
+        "lon": "-0.109636"
+    },
+    "Givemagic": {
+        "lat": "43.6605748",
+        "lon": "-79.3884052"
+    },
+    "Juniper": {
+        "lat": "43.6557636",
+        "lon": "-79.3864328"
+    },
+    "EY Toronto": {
+        "lat": "43.649792",
+        "lon": "-79.382484"
+    },
+    "Google New York": {
+        "lat": "40.7417176",
+        "lon": "-74.0041592"
+    },
+    "Symbi Medical": {
+        "lat": "45.421106",
+        "lon": "-75.690308"
+    },
+    "Dropbox": {
+        "lat": "37.7808795",
+        "lon": "-122.392365"
+    },
+    "Facebook": {
+        "lat": "37.4831486",
+        "lon": "-122.1500282"
+    },
+    "Leaders Fund": {
+        "lat": "43.7068116",
+        "lon": "-79.3995758"
+    },
+    "Citigroup Toronto": {
+        "lat": "43.645287",
+        "lon": "-79.382458"
+    },
+    "Elevate": {
+        "lat": "43.653963",
+        "lon": "-79.387207"
+    },
+    "Nise Tech": {
+        "lat": "43.654459533921475",
+        "lon": "-79.38072681427002"
+    },
+    "Accenture Toronto": {
+        "lat": "43.649516",
+        "lon": "-79.3789631"
+    },
+    "Scotiabank Digital Factory": {
+        "lat": "43.651417",
+        "lon": "-79.36573"
+    },
+    "ByMinistry/Elevation Creative": {
+        "lat": "43.644685",
+        "lon": "-79.404245"
+    },
+    "Brown University": {
+        "lat": "41.82678724775321",
+        "lon": "-71.40254974365234"
+    },
+    "Ryno & Makeship": {
+        "lat": "22.5445697",
+        "lon": "114.0545346"
+    },
+    "CompuStaff": {
+        "lat": "43.6502576",
+        "lon": "-79.3849675"
+    },
+    "Guap": {
+        "lat": "43.653963",
+        "lon": "-79.387207"
+    },
+    "Dapper Labs Inc": {
+        "lat": "49.2799774",
+        "lon": "-123.1233774"
+    },
+    "Forvera Health": {
+        "lat": "43.6723",
+        "lon": "-79.37700000000001"
+    },
+    "IVADO Labs": {
+        "lat": "45.530767",
+        "lon": "-73.613377"
+    },
+    "Turvo": {
+        "lat": "37.3762847",
+        "lon": "-122.0340217"
+    },
+    "Cleen Detailing": {
+        "lat": "45.421106",
+        "lon": "-75.690308"
+    },
+    "University of Ottawa": {
+        "lat": "45.4229162",
+        "lon": "-75.6837207"
+    },
+    "ESPCI Paris": {
+        "lat": "48.8414596",
+        "lon": "2.3468101"
+    },
+    "OpenAI": {
+        "lat": "37.762318",
+        "lon": "-122.4146795"
+    },
+    "PubNub, Twitter": {
+        "lat": "37.782013",
+        "lon": "-122.394811"
+    },
+    "Adobe Research": {
+        "lat": "37.3307716",
+        "lon": "-121.894342"
+    },
+    "RBC Capital Markets": {
+        "lat": "40.7135576",
+        "lon": "-74.0148661"
+    },
+    "Upside Foundation": {
+        "lat": "43.64733",
+        "lon": "-79.395794"
     }
 }

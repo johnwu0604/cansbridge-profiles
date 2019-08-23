@@ -22,5 +22,41 @@
     "Western University": {
         "lat": "43.0053586",
         "lon": "-81.2748046"
+    },
+    "University of Ottawa": {
+        "lat": "45.4229162",
+        "lon": "-75.6837207"
+    },
+    "OCAD University": {
+        "lat": "43.6529569",
+        "lon": "-79.3911841"
+    },
+    "St. Francis Xavier": {
+        "lat": "45.61799975033449",
+        "lon": "-61.994733810424805"
+    },
+    "Concordia University": {
+        "lat": "45.49457077015137",
+        "lon": "-73.57739210128784"
+    },
+    "McMaster University": {
+        "lat": "43.257877",
+        "lon": "-79.918477"
+    },
+    "University of Toronto": {
+        "lat": "43.6533",
+        "lon": "-79.38740000000001"
+    },
+    "Wilfrid Laurier University": {
+        "lat": "43.472355836790975",
+        "lon": "-80.52635192871094"
+    },
+    "British Columbia Institute of Technology": {
+        "lat": "49.251892",
+        "lon": "-123.002621"
+    },
+    "University of Waterloo": {
+        "lat": "43.470613",
+        "lon": "-80.544958"
     }
 }
