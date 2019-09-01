@@ -168,8 +168,8 @@
         "lon": "-79.3849675"
     },
     "Guap": {
-        "lat": "43.653963",
-        "lon": "-79.387207"
+        "lat": "43.65461",
+        "lon": "-79.387688"
     },
     "Dapper Labs Inc": {
         "lat": "49.2799774",
@@ -188,8 +188,8 @@
         "lon": "-122.0340217"
     },
     "Cleen Detailing": {
-        "lat": "45.421106",
-        "lon": "-75.690308"
+        "lat": "45.4208154",
+        "lon": "-75.6901177"
     },
     "University of Ottawa": {
         "lat": "45.4229162",
@@ -218,5 +218,49 @@
     "Upside Foundation": {
         "lat": "43.64733",
         "lon": "-79.395794"
+    },
+    "Immigration, Refugees, and Citizenship Canada": {
+        "lat": "19.42847",
+        "lon": "-99.12766"
+    },
+    "Messagepoint": {
+        "lat": "43.6384591",
+        "lon": "-79.3801324"
+    },
+    "PwC Toronto": {
+        "lat": "43.642905",
+        "lon": "-79.381468"
+    },
+    "Skylight": {
+        "lat": "43.6616719",
+        "lon": "-79.3399157"
+    },
+    "Carrot": {
+        "lat": "37.4990734",
+        "lon": "-122.2120775"
+    },
+    "Connected": {
+        "lat": "43.6464588",
+        "lon": "-79.3918108"
+    },
+    "Ottawa Hospital Research Institute": {
+        "lat": "45.392996",
+        "lon": "-75.721628"
+    },
+    "ISAE SUPAERO": {
+        "lat": "43.5721685",
+        "lon": "1.4710694"
+    },
+    "Rheinmetall Defence": {
+        "lat": "45.285074",
+        "lon": "-73.269785"
+    },
+    "Dow": {
+        "lat": "43.6473566",
+        "lon": "-79.3837078"
+    },
+    "Bain & Company Toronto": {
+        "lat": "43.670957",
+        "lon": "-79.384588"
     }
 }
